@@ -14,4 +14,4 @@ $people = [
 ];
 
 ?>
-
+docker exec -it <container_id> ps aux
